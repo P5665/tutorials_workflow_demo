@@ -1,0 +1,15 @@
+# General
+.DS_Store
+
+# Python virtual environment
+__pycache__/
+.pytest_cache/
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pywz
+
+# Editor-specific files
+.vscode/
